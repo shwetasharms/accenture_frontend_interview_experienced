@@ -1,1 +1,1 @@
-# accenture_frontend_interview_experienced
+Real Accenture Frontend Developer Interview Questions & Answers (2025)”
