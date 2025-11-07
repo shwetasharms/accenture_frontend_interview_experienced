@@ -22,6 +22,9 @@ This round included deep discussions on **JavaScript Core Concepts**, **React sc
 7. What is the **event loop**, and how does it handle async tasks?
 8. Difference between **synchronous** and **asynchronous** functions.
 9. **Output-based questions** on closures, TDZ, variable shadowing, and hoisting.
+10. Explain how Promises work. What are .then() and .catch()?   
+11. How does async / await work internally?
+12. What is CORS and where do we enable it?
 
 ---
 
